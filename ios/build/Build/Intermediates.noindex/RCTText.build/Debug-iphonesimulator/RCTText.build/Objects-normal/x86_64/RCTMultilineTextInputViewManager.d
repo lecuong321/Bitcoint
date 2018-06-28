@@ -1,0 +1,32 @@
+dependencies: \
+  /usr/local/var/www/bitcoin/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputViewManager.m \
+  /usr/local/var/www/bitcoin/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputViewManager.h \
+  /usr/local/var/www/bitcoin/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputViewManager.h \
+  /usr/local/var/www/bitcoin/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextViewManager.h \
+  /usr/local/var/www/bitcoin/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /usr/local/var/www/bitcoin/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /usr/local/var/www/bitcoin/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /usr/local/var/www/bitcoin/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /usr/local/var/www/bitcoin/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /usr/local/var/www/bitcoin/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /usr/local/var/www/bitcoin/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /usr/local/var/www/bitcoin/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /usr/local/var/www/bitcoin/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /usr/local/var/www/bitcoin/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /usr/local/var/www/bitcoin/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /usr/local/var/www/bitcoin/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /usr/local/var/www/bitcoin/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /usr/local/var/www/bitcoin/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /usr/local/var/www/bitcoin/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /usr/local/var/www/bitcoin/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /usr/local/var/www/bitcoin/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /usr/local/var/www/bitcoin/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /usr/local/var/www/bitcoin/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /usr/local/var/www/bitcoin/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /usr/local/var/www/bitcoin/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /usr/local/var/www/bitcoin/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /usr/local/var/www/bitcoin/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputView.h \
+  /usr/local/var/www/bitcoin/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /usr/local/var/www/bitcoin/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /usr/local/var/www/bitcoin/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /usr/local/var/www/bitcoin/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h
